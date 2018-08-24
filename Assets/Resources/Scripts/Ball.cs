@@ -33,7 +33,7 @@ public class Ball : MonoBehaviour
 				Destroy(hit.collider.gameObject);
 			}
 			return new Vector2(-1, 1);
-		}else if (Physics.Raycast(transform.position, new Vector2(0, Dir.y / Mathf.Abs(Dir.y)), out hit, transform.localScale.x))
+		}else if (Physics.Raycast(transform.position, new Vector2(0, Dir.y / Mathf.Abs(Dir.y)), out hit, transform.localScale.y))
 		{
 			if (hit.collider.tag.Equals("Block"))
 			{
@@ -41,6 +41,13 @@ public class Ball : MonoBehaviour
 				Destroy(hit.collider.gameObject);
 			}
 			return new Vector2(1, -1);
+		}else if (Physics.Raycast(transform.position, new Vector2(Dir.x / Mathf.Abs(Dir.x), Dir.y / Mathf.Abs(Dir.y)), out hit, transform.localScale.y)){
+			if (hit.collider.tag.Equals("Block"))
+			{
+				GameObject.Find("Score").GetComponent<ScoreCounter>().UpdateScore(1);
+				Destroy(hit.collider.gameObject);
+			}
+			return new Vector2(-1,-1);
 		}
 		return new Vector2(1,1);
 	}
