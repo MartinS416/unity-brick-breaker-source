@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-08-23T22:41:28.836-04:00
-  initializedAtString: 2018-08-23T22:41:28.836-04:00
+  lastUpdatedAtString: 2018-08-24T19:09:46.036-04:00
+  initializedAtString: 2018-08-24T19:09:46.036-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/jamesrosstwo/unity-brick-breaker
@@ -23,10 +23,10 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
+    name: V0.1
     tracking: '[None]'
   currentConfigBranch:
-    name: master
+    name: V0.1
     remote:
       name: 
       url: 
@@ -34,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/jamesrosstwo/unity-brick-breaker
-  currentHead: d0cf82e
+  currentHead: d6d85ae

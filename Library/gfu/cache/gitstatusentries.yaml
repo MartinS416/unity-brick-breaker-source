@@ -12,43 +12,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-23T23:24:41.254-04:00
-  initializedAtString: 2018-08-23T23:03:10.279-04:00
+  lastUpdatedAtString: 2018-08-24T19:09:46.236-04:00
+  initializedAtString: 2018-08-24T19:09:46.236-04:00
   entries:
-  - path: .idea\.idea.Brick Breaker\.idea\workspace.xml
-    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\.idea\.idea.Brick
-      Breaker\.idea\workspace.xml
-    projectPath: .idea\.idea.Brick Breaker\.idea\workspace.xml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Floor.cs
-    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Assets\Floor.cs
-    projectPath: Assets\Floor.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Floor.cs.meta
-    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Assets\Floor.cs.meta
-    projectPath: Assets\Floor.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Resources\Scripts\Ball.cs
-    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Assets\Resources\Scripts\Ball.cs
-    projectPath: Assets\Resources\Scripts\Ball.cs
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\assetDatabase3
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\assetDatabase3
     projectPath: Library\assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\CurrentLayout.dwlt
-    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
     originalPath: 
     status: 3
     staged: 0
@@ -56,41 +25,11 @@ MonoBehaviour:
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\10\10d0e2ffd3df8d647aa9ca305ad15aa5
-    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\metadata\10\10d0e2ffd3df8d647aa9ca305ad15aa5
-    projectPath: Library\metadata\10\10d0e2ffd3df8d647aa9ca305ad15aa5
     originalPath: 
     status: 3
     staged: 0
@@ -98,29 +37,23 @@ MonoBehaviour:
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\metadata\cd\cd134e6509940dc45a8ed8b998c59fab
     projectPath: Library\metadata\cd\cd134e6509940dc45a8ed8b998c59fab
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Library\metadata\cd\cd134e6509940dc45a8ed8b998c59fab.info
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\metadata\cd\cd134e6509940dc45a8ed8b998c59fab.info
     projectPath: Library\metadata\cd\cd134e6509940dc45a8ed8b998c59fab.info
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
     originalPath: 
     status: 5
     staged: 0
@@ -134,13 +67,7 @@ MonoBehaviour:
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Temp\UnityLockfile
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityLockfile
@@ -152,29 +79,41 @@ MonoBehaviour:
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityTempFile-03f4937f01ca3af4faa863cde1a60268
     projectPath: Temp\UnityTempFile-03f4937f01ca3af4faa863cde1a60268
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Temp\UnityTempFile-2a1202bcbcc451d4aaa08bf3765c974e
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityTempFile-2a1202bcbcc451d4aaa08bf3765c974e
     projectPath: Temp\UnityTempFile-2a1202bcbcc451d4aaa08bf3765c974e
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Temp\UnityTempFile-2bdb48aa7568f1a41906efeb0e0e6761
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityTempFile-2bdb48aa7568f1a41906efeb0e0e6761
     projectPath: Temp\UnityTempFile-2bdb48aa7568f1a41906efeb0e0e6761
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Temp\UnityTempFile-2ce1268c9ff1b4b4faa62c2c8791a09b
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityTempFile-2ce1268c9ff1b4b4faa62c2c8791a09b
     projectPath: Temp\UnityTempFile-2ce1268c9ff1b4b4faa62c2c8791a09b
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Temp\UnityTempFile-4a36c3ca908197249b1fb3e8ad0d8e98
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityTempFile-4a36c3ca908197249b1fb3e8ad0d8e98
     projectPath: Temp\UnityTempFile-4a36c3ca908197249b1fb3e8ad0d8e98
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-5ff9fb1cd0bd4854482813732b673af2
+    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityTempFile-5ff9fb1cd0bd4854482813732b673af2
+    projectPath: Temp\UnityTempFile-5ff9fb1cd0bd4854482813732b673af2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-6a4292a2c75f82f43bc8516cc410aa87
+    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityTempFile-6a4292a2c75f82f43bc8516cc410aa87
+    projectPath: Temp\UnityTempFile-6a4292a2c75f82f43bc8516cc410aa87
     originalPath: 
     status: 1
     staged: 0
@@ -182,11 +121,35 @@ MonoBehaviour:
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityTempFile-9e4de7b3ce2f0564c8bfcf10e1e42147
     projectPath: Temp\UnityTempFile-9e4de7b3ce2f0564c8bfcf10e1e42147
     originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-a535fe83146828848bb96c951da17961
+    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityTempFile-a535fe83146828848bb96c951da17961
+    projectPath: Temp\UnityTempFile-a535fe83146828848bb96c951da17961
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d9d71fa590f4a0f42bf38e6387124b4e
+    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityTempFile-d9d71fa590f4a0f42bf38e6387124b4e
+    projectPath: Temp\UnityTempFile-d9d71fa590f4a0f42bf38e6387124b4e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-dd713ef1819c53d4fb738869c257d71b
+    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityTempFile-dd713ef1819c53d4fb738869c257d71b
+    projectPath: Temp\UnityTempFile-dd713ef1819c53d4fb738869c257d71b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-de09001544348124ca18ba6ed854de09
+    fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityTempFile-de09001544348124ca18ba6ed854de09
+    projectPath: Temp\UnityTempFile-de09001544348124ca18ba6ed854de09
+    originalPath: 
     status: 1
     staged: 0
   - path: Temp\UnityTempFile-ea9af5dbf39c733419bac1fbf679af30
     fullPath: C:\Users\james\Documents\UnityProjects\Brick Breaker\Temp\UnityTempFile-ea9af5dbf39c733419bac1fbf679af30
     projectPath: Temp\UnityTempFile-ea9af5dbf39c733419bac1fbf679af30
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
