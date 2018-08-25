@@ -5,7 +5,7 @@ The source for a brick-breaker game made in Unity3D.
 ## Prerequisites
 
 - Unity
-- An IDE that supports 
+- An IDE
 
 ## Installation
 1. Open `Brick Breaker.sln` in your IDE of choice.
